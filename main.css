@@ -1,0 +1,120 @@
+
+*{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+
+
+
+}
+
+
+
+
+
+
+.Products{
+
+background-color: white;
+margin: auto;
+width: 50%;
+height:580px;
+
+
+
+
+}
+
+h1{
+
+    margin: 20px 0 20px ;
+
+}
+
+.phone{
+
+background-color: white;
+width: 20%;
+height:41%;
+
+float:left;
+margin: 2px;
+padding-top: 2px;
+padding-bottom: 2px;
+padding-right: 2px;
+padding-left: 2px;
+border: 2px solid black;
+}
+
+
+
+.fa-solid {
+
+    background-color: yellow;
+    text-align: center;
+    width: 40px;
+float:left;
+margin:2px 0 6px 0 ;
+
+}
+.fa-cart-shopping {
+    color: white;
+    text-align: center;
+    width: 100px;
+height: 25px;
+
+float:left;
+}
+.fa-heart {
+    color: white;
+    text-align: center;
+    width: 40px;
+height: 25px;
+float:right;
+}
+
+.pricetag{
+    
+    margin:0px 0 2px 10px;
+   float:left;
+    height:20px;
+  
+    padding: 0 2px 0 2px;
+    background:white;
+    color :green;
+
+    
+    
+   
+}
+
+
+.oldprice{
+    text-decoration: line-through;
+    margin:0 30px 0 0;
+    float:left;
+   height:20%;
+  
+    padding: 0 2px 0 0;
+    background:white;
+    color :red;
+    
+    
+    
+   
+}
+h5{
+margin:auto;
+
+}
+
+ div img{
+    margin: 35px 40px 10px;
+    width: 30%;
+}
+
+.clearfix{
+
+    clear: both;
+}
